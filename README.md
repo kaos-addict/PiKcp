@@ -1,4 +1,4 @@
-kcp
+PiKcp
 ===
 
 A command-line tool for my Pi-Aur repository
