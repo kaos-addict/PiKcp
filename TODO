@@ -1,0 +1,10 @@
+TODO :
+	- Improve the json parser work at search (done)
+	- Add the possibility of editing PKGBUILD (done)
+	- Add version in the -s listing (done)
+	- Create a Makefile (done)
+	- Create bash completion (done)
+	- Create fish completion (done)
+	- Create zsh completion
+	- Implement app access token for github api (done)
+	- Implement internationalization
