@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Flag variables
-withgccgo='no'
+withgccgo='yes'
 withman='yes'
 withbash='yes'
 withfish='yes'
@@ -38,7 +38,7 @@ _generate() {
 	_addline 'export $(GOPATH)'
 	_emptyline
 
-	_addline 'PACKAGE     = kcp'
+	_addline 'PACKAGE     = pikcp'
 	_addline 'PACKAGEC    = pckcp'
 	_addline 'PACKAGEFLAG = --create-manpage'
 	_emptyline
