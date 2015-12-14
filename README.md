@@ -1,6 +1,6 @@
 kcp
 ===
 
-A command-line tool for KaOS Community Packages
+A command-line tool for my Pi-Aur repository
 
-For more informations, see: https://github.com/KaOS-Community-Packages
+Forked from KCP: https://github.com/KaOS-Community-Packages
